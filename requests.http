@@ -14,3 +14,4 @@ Authorization: Bearer {{$dotenv NUXT_OPENAI_API_KEY}}
 ###
 
 POST http://localhost:3000/api/ai
+Content-Type: application/json
